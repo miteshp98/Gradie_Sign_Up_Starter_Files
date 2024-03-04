@@ -14,7 +14,7 @@
 }
 
 body {
-  background: url(/Assets/Background.png) no-repeat;
+  background: url(../Assets/Background.png) no-repeat;
   background-size: cover;
 }
 
@@ -32,7 +32,7 @@ body {
 
 .title-image-container {
   background-color: var(--primary-color);
-  background-image: url(/Assets/iPhone\ Mockup.png);
+  background-image: url(../Assets/iPhone\ Mockup.png);
   background-repeat: no-repeat;
   background-size: 45vh;
   background-position: center bottom;
